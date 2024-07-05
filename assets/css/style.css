@@ -1,0 +1,29 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+#nombre_local {
+  font-family: "Lobster", sans-serif;
+  font-weight: 400;
+  font-size: 37pt;
+  font-style: normal;
+}
+.carousel-indicators button {
+  width: 30px !important; 
+  height: 30px !important; 
+  border-radius: 50% !important; 
+  background-color: #373A3C31 !important; 
+}
+
+.carousel-indicators .active {
+  background-color: #373A3C !important; 
+}
+
+ul{
+  list-style: none;
+  padding: 0;
+}
+ol li{
+  margin-bottom: 10px;
+}
